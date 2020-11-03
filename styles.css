@@ -1,0 +1,12 @@
+#card {
+    display: table-cell;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    width: 575px;
+    height: 412px;
+    text-align: center;
+    vertical-align: middle;
+    
+    /* font-size: 24; */
+}
